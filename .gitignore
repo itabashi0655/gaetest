@@ -1,0 +1,20 @@
+.DS_Store
+
+# Eclipse meta file
+.classpath
+.factorypath
+.project
+.settings/
+
+.apt_generated/
+
+# Eclipse libs
+eclipse.lib/
+
+# generated file
+war/WEB-INF/appengine-generated/
+target/
+war/WEB-INF/classes/
+
+# for deploy
+war/WEB-INF/lib/
